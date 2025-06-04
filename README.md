@@ -1,6 +1,15 @@
 # my_first_app
 
 my first Flutter test app.
+a simple calculator with calculation history and kilometer-to-mile conversion.
+
+## Features
+
+- standard math operations
+- supports expressions like 5 + 6 / 2
+- automatically saves results to Firebase Firestore
+- history screen with date and time
+- converter screen: kilometers - miles
 
 ## Getting Started
 
